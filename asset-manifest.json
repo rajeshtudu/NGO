@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/NGO/static/css/main.85fe430e.css",
+    "main.js": "/NGO/static/js/main.471d04a3.js",
+    "static/media/blog.jpg": "/NGO/static/media/blog.5d38a5bab8827f8834e3.jpg",
+    "static/media/story.jpg": "/NGO/static/media/story.5893b7fc422de6f378c9.jpg",
+    "static/media/home.jpg": "/NGO/static/media/home.2d26dec5c9a741750ff3.jpg",
+    "static/media/model.jpg": "/NGO/static/media/model.4ff797231c53dab7193b.jpg",
+    "static/media/3.png": "/NGO/static/media/3.a1087eb3d1fe9cd5b4e8.png",
+    "static/media/donation.jpg": "/NGO/static/media/donation.3a3c249917b862044be7.jpg",
+    "static/media/2.png": "/NGO/static/media/2.4416e8f3dba4b4a0d3ed.png",
+    "static/media/1.png": "/NGO/static/media/1.3386cd23308b3a53092b.png",
+    "static/media/cause3.jpg": "/NGO/static/media/cause3.725a2e7ec4fb0072d36e.jpg",
+    "static/media/cause2.jpg": "/NGO/static/media/cause2.29fc89b8ec8ba7f11857.jpg",
+    "static/media/cause1.jpg": "/NGO/static/media/cause1.92e65b0e6a555a1531c1.jpg",
+    "static/media/news_1.png": "/NGO/static/media/news_1.891a381295c588bd9533.png",
+    "static/media/post_7.png": "/NGO/static/media/post_7.f9572bf57b0cf81e72b3.png",
+    "static/media/post_9.png": "/NGO/static/media/post_9.b176384635d56886d524.png",
+    "static/media/post_8.png": "/NGO/static/media/post_8.e9bb0065497ef4076e21.png",
+    "static/media/post_1.png": "/NGO/static/media/post_1.f1136cfb7a1da49c72b6.png",
+    "static/media/news_2.png": "/NGO/static/media/news_2.daa003fe0f11b103d3c8.png",
+    "static/media/post_3.png": "/NGO/static/media/post_3.176a87262169f01c1a4b.png",
+    "static/media/post_2.png": "/NGO/static/media/post_2.60c0f541f99172d8eb80.png",
+    "static/media/post_4.png": "/NGO/static/media/post_4.e19b4e256b5b6b3af054.png",
+    "index.html": "/NGO/index.html",
+    "main.85fe430e.css.map": "/NGO/static/css/main.85fe430e.css.map",
+    "main.471d04a3.js.map": "/NGO/static/js/main.471d04a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85fe430e.css",
+    "static/js/main.471d04a3.js"
+  ]
+}
